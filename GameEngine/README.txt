@@ -1,4 +1,4 @@
-# This is the read me for Homework 3
+# This is the read me for GameEngine
 
 Ensure that you have java installed on your computer and you have the JVM 
 NOTE: All code is found within the 'code' folder 
