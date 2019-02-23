@@ -45,3 +45,7 @@ Step 5 - To add more clients, repeat steps 3 and 4
 	'l' - speed up replay (by double)
 	
 	'p' - pause replay
+	
+# DEMO
+
+![alt text](https://i.imgur.com/F0Z3Af3.gif)
